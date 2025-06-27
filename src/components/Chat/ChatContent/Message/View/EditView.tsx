@@ -135,7 +135,7 @@ const EditView = ({
             _setContent(e.target.value);
           }}
           value={_content}
-          placeholder='IBU BIDANN YANG CUEK MAU NANYA APAAA?'
+          placeholder='Mba Ecaa mau nanya apa?'
           onKeyDown={handleKeyDown}
           rows={1}
         ></textarea>

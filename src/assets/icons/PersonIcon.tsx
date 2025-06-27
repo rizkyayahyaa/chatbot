@@ -1,5 +1,5 @@
 import React from 'react';
-import userImg from '../ara.png'
+import userImg from '../eka.png'
 
 const PersonIcon = () => {
   return (

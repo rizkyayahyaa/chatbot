@@ -48,7 +48,7 @@ const ChatTitle = React.memo(() => {
           setIsModalOpen(true);
         }}
       >
-				<p>Tanya - tanya seputar ibu bidan Azzahra Salsabila</p>
+				<p>Tanya - tanya seputar ibu Rekha Santyka</p>
         { /* <div className='text-center p-1 rounded-md bg-gray-300/20 dark:bg-gray-900/10 hover:bg-gray-300/50 dark:hover:bg-gray-900/50'>
           {t('model')}: {config.model}
         </div>

@@ -113,7 +113,7 @@ const ChatContent = () => {
               </div>
             ) */ }
 						<div className="md:w-[calc(100%-50px)] flex gap-4 flex-wrap justify-center">
-							<p className="dark:text-white light:text-black">Copyright © 2025 Azzahra Salsabila</p>
+							<p className="dark:text-white light:text-black">Copyright © 2025 Rekha Santyka</p>
 						</div>
           </div>
           <div className='w-full h-36'></div>
